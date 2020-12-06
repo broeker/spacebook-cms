@@ -10,7 +10,7 @@
   "enableSearch": true,
   "enableContact": true,
   "enableDarkMode": true,
-  "enableNetlifyCMS": false,
+  "enableNetlifyCMS": true,
   "enableEditButton": true,
   "enableGithubLink": true
 }
